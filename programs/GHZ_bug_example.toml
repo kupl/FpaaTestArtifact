@@ -1,0 +1,4 @@
+title = "GHZ correct"
+
+E_state = "0.70710678118,0,0,0,0,0,0,0.70710678118"
+targ_pgm_QASM = "programs/GHZ_bug_example.qasm"
